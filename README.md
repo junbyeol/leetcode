@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/junbyeol/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/junbyeol/leetcode/tree/master/0018-4sum) |
+| [0036-valid-sudoku](https://github.com/junbyeol/leetcode/tree/master/0036-valid-sudoku) |
 ## Two Pointers
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/junbyeol/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0036-valid-sudoku](https://github.com/junbyeol/leetcode/tree/master/0036-valid-sudoku) |
 ## String
 |  |
 | ------- |
@@ -41,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/junbyeol/leetcode/tree/master/0022-generate-parentheses) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/junbyeol/leetcode/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
