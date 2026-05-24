@@ -27,12 +27,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/junbyeol/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/junbyeol/leetcode/tree/master/0022-generate-parentheses) |
 ## Backtracking
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/junbyeol/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/junbyeol/leetcode/tree/master/0022-generate-parentheses) |
 ## Linked List
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/junbyeol/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/junbyeol/leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
