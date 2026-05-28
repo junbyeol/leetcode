@@ -71,11 +71,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/junbyeol/leetcode/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/junbyeol/leetcode/tree/master/0050-powx-n) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/junbyeol/leetcode/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/junbyeol/leetcode/tree/master/0024-swap-nodes-in-pairs) |
+| [0050-powx-n](https://github.com/junbyeol/leetcode/tree/master/0050-powx-n) |
 ## Sliding Window
 |  |
 | ------- |
