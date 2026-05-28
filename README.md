@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/junbyeol/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/junbyeol/leetcode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/junbyeol/leetcode/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/junbyeol/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/junbyeol/leetcode/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/junbyeol/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/junbyeol/leetcode/tree/master/0040-combination-sum-ii) |
@@ -78,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/junbyeol/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/junbyeol/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
