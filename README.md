@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/junbyeol/leetcode/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/junbyeol/leetcode/tree/master/0038-count-and-say) |
 | [0071-simplify-path](https://github.com/junbyeol/leetcode/tree/master/0071-simplify-path) |
+| [0306-additive-number](https://github.com/junbyeol/leetcode/tree/master/0306-additive-number) |
 ## Backtracking
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/junbyeol/leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/junbyeol/leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/junbyeol/leetcode/tree/master/0047-permutations-ii) |
+| [0306-additive-number](https://github.com/junbyeol/leetcode/tree/master/0306-additive-number) |
 ## Linked List
 |  |
 | ------- |
