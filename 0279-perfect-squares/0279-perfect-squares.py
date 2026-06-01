@@ -8,7 +8,7 @@ class Solution:
                 dp[num] = 1
             else:    
                 min_val = dp[num-1] + 1
-                it = 0
+                it = 1
                 while squares[it] < num:
                     min_val = min(dp[num - squares[it]] + 1, min_val)
                     it = it + 1
