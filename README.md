@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/junbyeol/leetcode/tree/master/0022-generate-parentheses) |
+| [0279-perfect-squares](https://github.com/junbyeol/leetcode/tree/master/0279-perfect-squares) |
 ## Matrix
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/junbyeol/leetcode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/junbyeol/leetcode/tree/master/0050-powx-n) |
+| [0279-perfect-squares](https://github.com/junbyeol/leetcode/tree/master/0279-perfect-squares) |
 ## Recursion
 |  |
 | ------- |
@@ -140,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1934-confirmation-rate](https://github.com/junbyeol/leetcode/tree/master/1934-confirmation-rate) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/junbyeol/leetcode/tree/master/1978-employees-whose-manager-left-the-company) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/junbyeol/leetcode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/junbyeol/leetcode/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
