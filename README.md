@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/junbyeol/leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/junbyeol/leetcode/tree/master/0047-permutations-ii) |
 | [0057-insert-interval](https://github.com/junbyeol/leetcode/tree/master/0057-insert-interval) |
+| [0134-gas-station](https://github.com/junbyeol/leetcode/tree/master/0134-gas-station) |
 ## Two Pointers
 |  |
 | ------- |
@@ -148,4 +149,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/junbyeol/leetcode/tree/master/0279-perfect-squares) |
+## Greedy
+|  |
+| ------- |
+| [0134-gas-station](https://github.com/junbyeol/leetcode/tree/master/0134-gas-station) |
 <!---LeetCode Topics End-->
