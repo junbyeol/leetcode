@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/junbyeol/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/junbyeol/leetcode/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/junbyeol/leetcode/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/junbyeol/leetcode/tree/master/0043-multiply-strings) |
 | [0071-simplify-path](https://github.com/junbyeol/leetcode/tree/master/0071-simplify-path) |
 | [0306-additive-number](https://github.com/junbyeol/leetcode/tree/master/0306-additive-number) |
 ## Backtracking
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/junbyeol/leetcode/tree/master/0002-add-two-numbers) |
+| [0043-multiply-strings](https://github.com/junbyeol/leetcode/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/junbyeol/leetcode/tree/master/0050-powx-n) |
 | [0279-perfect-squares](https://github.com/junbyeol/leetcode/tree/master/0279-perfect-squares) |
 ## Recursion
@@ -155,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/junbyeol/leetcode/tree/master/0134-gas-station) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/junbyeol/leetcode/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
