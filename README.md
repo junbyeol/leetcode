@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/junbyeol/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/junbyeol/leetcode/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/junbyeol/leetcode/tree/master/0061-rotate-list) |
+| [1768-merge-strings-alternately](https://github.com/junbyeol/leetcode/tree/master/1768-merge-strings-alternately) |
 ## Sorting
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/junbyeol/leetcode/tree/master/0043-multiply-strings) |
 | [0071-simplify-path](https://github.com/junbyeol/leetcode/tree/master/0071-simplify-path) |
 | [0306-additive-number](https://github.com/junbyeol/leetcode/tree/master/0306-additive-number) |
+| [1768-merge-strings-alternately](https://github.com/junbyeol/leetcode/tree/master/1768-merge-strings-alternately) |
 ## Backtracking
 |  |
 | ------- |
