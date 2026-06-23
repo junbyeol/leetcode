@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/junbyeol/leetcode/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/junbyeol/leetcode/tree/master/0043-multiply-strings) |
 | [0071-simplify-path](https://github.com/junbyeol/leetcode/tree/master/0071-simplify-path) |
+| [0072-edit-distance](https://github.com/junbyeol/leetcode/tree/master/0072-edit-distance) |
 | [0306-additive-number](https://github.com/junbyeol/leetcode/tree/master/0306-additive-number) |
 | [1768-merge-strings-alternately](https://github.com/junbyeol/leetcode/tree/master/1768-merge-strings-alternately) |
 ## Backtracking
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/junbyeol/leetcode/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/junbyeol/leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/junbyeol/leetcode/tree/master/0063-unique-paths-ii) |
+| [0072-edit-distance](https://github.com/junbyeol/leetcode/tree/master/0072-edit-distance) |
 | [0279-perfect-squares](https://github.com/junbyeol/leetcode/tree/master/0279-perfect-squares) |
 ## Matrix
 |  |
