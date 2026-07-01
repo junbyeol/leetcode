@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/junbyeol/leetcode/tree/master/0047-permutations-ii) |
 | [0057-insert-interval](https://github.com/junbyeol/leetcode/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/junbyeol/leetcode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/junbyeol/leetcode/tree/master/0064-minimum-path-sum) |
 | [0134-gas-station](https://github.com/junbyeol/leetcode/tree/master/0134-gas-station) |
 | [0215-kth-largest-element-in-an-array](https://github.com/junbyeol/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Two Pointers
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/junbyeol/leetcode/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/junbyeol/leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/junbyeol/leetcode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/junbyeol/leetcode/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/junbyeol/leetcode/tree/master/0072-edit-distance) |
 | [0279-perfect-squares](https://github.com/junbyeol/leetcode/tree/master/0279-perfect-squares) |
 ## Matrix
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/junbyeol/leetcode/tree/master/0036-valid-sudoku) |
 | [0063-unique-paths-ii](https://github.com/junbyeol/leetcode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/junbyeol/leetcode/tree/master/0064-minimum-path-sum) |
 ## Math
 |  |
 | ------- |
